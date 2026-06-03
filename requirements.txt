@@ -10,3 +10,4 @@ langchain-openai
 chromadb
 faiss-cpu
 langchain-classic
+langchain-groq
