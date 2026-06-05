@@ -1,7 +1,7 @@
 langchain
 python-dotenv
 ipykernel
-langchain_community
+langchain-community
 pypdf
 unstructured
 bs4
@@ -11,3 +11,4 @@ chromadb
 faiss-cpu
 langchain-classic
 langchain-groq
+transformers
