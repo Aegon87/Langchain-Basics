@@ -12,3 +12,6 @@ faiss-cpu
 langchain-classic
 langchain-groq
 transformers
+arxiv
+pymupdf
+wikipedia
